@@ -123,3 +123,32 @@ img{
   width: 150px;
   margin-right: 15px;
 }
+
+@media only screen and (max-width: 620px){
+  .card{
+    width: 100%;
+  }
+  img{
+    width: auto;
+    height: auto;
+  }
+}
+@media only screen and (max-width: 445px){
+  .search-area{
+    padding: 20px 20px;
+  }
+}
+@media only screen and (max-width: 390px){
+  header h1{
+    font-size: 40px;
+  }
+  .fa-book{
+    font-size: 40px;
+  }
+  input[type="text"]{
+    font-size: 25px;
+  }
+  .fa-search{
+    font-size: 20px;
+  }
+}
