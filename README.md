@@ -12,6 +12,8 @@
   <li>Finally, run <code><strong>npm start</strong></code></li>
 </ul>
 
+<p>Background animation can be found on <a href="https://codepen.io/P1N2O/pen/pyBNzX">here.</a></p>
+
 
 
 
