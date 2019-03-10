@@ -1,6 +1,6 @@
 <h1>Book Finder</h1>
 <p>Web App to find Books info using Google Book API.</p>
-<p>This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<p>
+<p>This project was bootstrapped with <a href="https://github.com/facebook/create-react-app">Create React App</a>.<p>
   
 <h3>What is this repository for?</h3>
 <p>This is a simple web application to search books and get information like author, no. of pages etc.</p>
