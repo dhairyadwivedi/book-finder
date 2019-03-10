@@ -2,7 +2,7 @@ import React from "react";
 
 const BookCard = props => {
   return (
-    <div className="card-container">
+    
       <div className="card">
         <img src={props.image} alt="" />
         <div className="info">
@@ -11,7 +11,7 @@ const BookCard = props => {
           <p>{props.pages} Pages</p>
         </div>
       </div>
-    </div>
+    
   );
 };
 
